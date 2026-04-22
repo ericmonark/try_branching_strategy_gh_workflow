@@ -1,0 +1,4 @@
+[submodule "FuzzySearchHelper"]
+	path = FuzzySearchHelper
+	url = https://github.com/AposanTeam/FuzzySearchHelper
+	branch = release/v1.1.1
